@@ -470,7 +470,8 @@ h1{
 ![Alt text](121.png)
 ![Alt text](122.png)
 ![Alt text](123.png)
-![124](https://github.com/SHARUKESHR/softweb/assets/144870484/6b439498-eadb-4695-bc7c-5aa776cf15c6)
+![124](https://github.com/SHARUKESHR/softweb/assets/144870484/7c2f9596-5d06-4cf5-a2ab-c0d1c9028dcd)
+
 
 
 
