@@ -470,7 +470,8 @@ h1{
 ![Alt text](121.png)
 ![Alt text](122.png)
 ![Alt text](123.png)
-![Alt text](124.png)
+![124](https://github.com/SHARUKESHR/softweb/assets/144870484/6b439498-eadb-4695-bc7c-5aa776cf15c6)
+
 
 
 ## RESULT:
