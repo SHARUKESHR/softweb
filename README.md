@@ -467,9 +467,9 @@ h1{
 
 
 ## OUTPUT:
-![Alt text](121.png)
-![Alt text](122.png)
-![Alt text](123.png)
+![121](https://github.com/SHARUKESHR/softweb/assets/144870484/dc8cdfe5-d4b8-4c20-a18b-4f76417c1c4a)
+![122](https://github.com/SHARUKESHR/softweb/assets/144870484/2063dc59-b935-4e0d-aa95-32b84b1eb028)
+![123](https://github.com/SHARUKESHR/softweb/assets/144870484/e4f04001-0a81-4e47-a308-b6801b11b608)
 ![124](https://github.com/SHARUKESHR/softweb/assets/144870484/7c2f9596-5d06-4cf5-a2ab-c0d1c9028dcd)
 
 
